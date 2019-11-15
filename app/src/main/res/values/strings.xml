@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FrasesAD</string>
+    <string name="Welcome">Bienvenido</string>
+    <string name="registrar">Registrer</string>
+    <string name="Quotes">Frase</string>
+    <string name="SingOut">Salir</string>
+</resources>
